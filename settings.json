@@ -7,7 +7,8 @@
   },
   "server": {
     "ip": "goatedsmp-qBQ2.aternos.me",
-    "port": 15336,
+    "port": 25565
+  ,
     "version": "1.21.11",
     "try-creative": false
   },
